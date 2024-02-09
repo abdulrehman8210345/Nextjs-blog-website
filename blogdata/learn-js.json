@@ -1,0 +1,6 @@
+{
+    "title" : "Learn js",
+    "content" : "JavaScript is a versatile programming language commonly used for web development. As a client-side scripting language, it runs within a user's web browser, allowing developers to create dynamic and interactive websites. JavaScript empowers developers to enhance user experiences by enabling features like form validation, interactive maps, animations, and more, all without requiring constant communication with the server. One of the key strengths of JavaScript lies in its flexibility and simplicity. Its syntax is relatively easy to understand, making it accessible to both beginners and experienced developers alike. Additionally, JavaScript's extensive ecosystem of libraries and frameworks, such as React, Angular, and Vue.js, further streamline development processes and enable the creation of complex web applications with minimal effort. Moreover, JavaScript has evolved beyond just front-end development. With the advent of technologies like Node.js, developers can now use JavaScript for server-side programming, enabling full-stack development with a single language. This versatility has contributed to JavaScript's widespread adoption and its status as one of the most important languages in modern web development.",
+    "author": "Abdul Rehman",
+    "slug":"learn-js"
+}

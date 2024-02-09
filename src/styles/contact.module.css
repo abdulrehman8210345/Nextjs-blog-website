@@ -1,0 +1,54 @@
+.container{
+    max-width: 40vw;
+    margin:auto;
+}
+.main{
+    height: 100vh;
+}
+.inputtag{
+    display: flex;
+    flex-direction: column;
+    font-weight:bold;
+    margin: 20px 0;
+}
+.inputtag p{
+    color: rgb(198, 121, 121);
+    font-size: 0.9rem;
+}
+.label{
+    margin: 2px 0;
+}
+.input{
+    padding: 5px;
+    font-size: 1rem;
+    border: 2px black solid;
+    border-radius: 5px;
+}
+.container h1{
+    text-align: center;
+    font-size: 2.5rem;
+}
+.btn{
+    padding: 5px 10px;
+      background-color: lightgrey;
+      color: black;
+      border: 2px black solid;
+      margin: 10px 0;
+      font-size: 0.8rem;
+      border-radius: 6px;
+      cursor: pointer;
+  }
+  .btn:hover{
+    background-color: black;
+    color: white;
+  
+  }
+  @media only screen and (max-width: 600px) {
+    .container{
+        max-width: 80vw;
+    }
+    .container h1{
+        font-size: 2rem;
+    }
+
+  }
