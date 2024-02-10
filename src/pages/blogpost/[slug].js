@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { useRouter } from 'next/router';
 import styles from "@/styles/blogpost.module.css";
-import * as fs from 'fs';
+// import * as fs from 'fs';
 
 const Slug = (props) => {
     //The below 2 lines are use to find query by using useRouter
